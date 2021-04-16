@@ -1,0 +1,8 @@
+---
+title: "ระบาดวิทยาโรคพืช"
+author: "Sith Jaisong"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+---
+
+# Down the rabbit-hole
